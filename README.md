@@ -1,4 +1,4 @@
-### Hi, I'm Rita!
+### Hi, I'm Rita! <img src="https://github.com/SparklingRita/SparklingRita/blob/master/wave.gif" width="20"></img>
 
 ##
 
