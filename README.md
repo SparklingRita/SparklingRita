@@ -9,4 +9,4 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingRita&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingRita&theme=dark&hide_border=true)
