@@ -8,3 +8,5 @@
 - 🌱 18 year old sprout c:
 
 <br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingRita&theme=dark)
